@@ -16,7 +16,7 @@ int main() {
   int pontos1;
   double densidadepop1;
   double pib_per_capita1;
-  float superpoder1 = 
+  float superpoder1;
   
   // Cadastro da Carta 2
    char estado2;
